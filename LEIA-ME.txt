@@ -1,0 +1,29 @@
+CALCULADORA DA MAQUININHA — VERSÃO PROFISSIONAL
+
+ARQUIVOS QUE DEVEM SER ENVIADOS AO GITHUB:
+- index.html
+- manifest.webmanifest
+- service-worker.js
+- pasta icons
+
+ATENÇÃO:
+Não envie somente o ZIP para o GitHub. Primeiro extraia o ZIP no computador.
+Depois selecione todos os arquivos extraídos e arraste para a tela de upload do repositório.
+
+ATIVAR O GITHUB PAGES:
+1. No repositório, abra Settings.
+2. No menu lateral, clique em Pages.
+3. Em Build and deployment, escolha:
+   Source: Deploy from a branch
+   Branch: main
+   Folder: / (root)
+4. Clique em Save.
+5. Aguarde alguns minutos.
+
+O endereço ficará parecido com:
+https://SEU-USUARIO.github.io/calculadora-maquininha/
+
+INSTALAR NO IPHONE:
+1. Abra o endereço no Safari.
+2. Toque em Compartilhar.
+3. Toque em Adicionar à Tela de Início.
